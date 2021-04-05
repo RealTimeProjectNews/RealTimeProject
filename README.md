@@ -17,29 +17,29 @@
 뿐만 아니라 일상생활에서 실검의 중요성이 나타나기도 했다. 지하철 운행 지연에 관한 대중교통 운행 정보와 미세먼지 농도를 비롯한 날씨 기후 주의보 등에 미리 대처할 수 없기 때문이다.
 
 [ 시빅뉴스 - 구글, 네이버, 안드로이드 오류... ‘실시간 검색어 순위’ 부활 요청 이어져 ]
-
-
+  
+  
 ### ❗"단점이 아닌 장점에 집중하자."
 
  - 단점에 의한 실시간 검색어 폐지가 아닌, 장점을 극대화한 실시간 검색어의 부활
 
  - 실시간 검색어가 아닌, 뉴스 및 실시간 SNS를 통한 트렌드 분석  
-
+  
    
 ## 프로젝트 개요
 
 실시간으로 다양한 카테고리(정치, 사회, 스포츠, 연예 등)의 트렌드를 수집한다.
 
 트렌드의 키워드와 실시간 SNS 반응을 추출하여 시각화한다.  
-
-
+  
+  
 ## 기술 스택
 ### FrontEnd
 
 - ![react](https://media.discordapp.net/attachments/805960914951864360/828619047054475274/unknown.png) React.js  
 - ![ts](https://media.discordapp.net/attachments/805960914951864360/828614135394336799/typescript.png) Typescript
 
-
+  
 ### BackEnd
 
 - ![springboot](https://media.discordapp.net/attachments/805960914951864360/828618236270084137/unknown.png) SpringBoot
